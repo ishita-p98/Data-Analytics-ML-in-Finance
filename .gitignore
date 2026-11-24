@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+01-credit-rating-downgrades/data/*
+!01-credit-rating-downgrades/data/README.md
+*original_submission*
+*StudentID*
+8530414.ipynb
+Presentation_Thu2_Paper7_Group9.pdf
