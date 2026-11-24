@@ -9,7 +9,7 @@ C. Dim, K. Koerner, M. Wolski and S. Zwart, *Hot off the Press: News-implied Sov
 **Course:** Data Analytics & Machine Learning in Finance  
 **Presentation:** *Hot off the Press: News-implied Sovereign Default Risk* (Paper 7, Group 9), 27 slides.
 
-The original title slide credits **Lucas Burlon, Robin Förster, Louis Häffner, Maximilian Heinl, Emanuele Licata, Ishita Pandey and Richard Stern** as presenters. The materials do not document which person authored which slide, so no individual contribution breakdown is asserted.
+**Acknowledgements:** This project was developed collaboratively as part of the *Data Analytics & Machine Learning in Finance* course. Thanks to Lucas Burlon, Robin Förster, Louis Häffner, Maximilian Heinl, Emanuele Licata, and Richard Stern for their contributions.
 
 ### Map of presentation content to this case study
 
