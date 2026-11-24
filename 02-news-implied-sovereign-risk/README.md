@@ -66,7 +66,7 @@ See [Critical evaluation](critical-evaluation.md).
 
 ## Attribution and publication choices
 
-This case study was adapted from a **seven-person group presentation**. The original presentation lists Lucas Burlon, Robin Förster, Louis Häffner, Maximilian Heinl, Emanuele Licata, Ishita Pandey and Richard Stern. The available materials do not identify individual slide responsibilities; no exclusive ownership or specific division of labor is claimed.
+This case study was adapted from a collaborative group presentation. **Acknowledgements:** This project was developed collaboratively as part of the *Data Analytics & Machine Learning in Finance* course. Thanks to Lucas Burlon, Robin Förster, Louis Häffner, Maximilian Heinl, Emanuele Licata, and Richard Stern for their contributions.
 
 The original slide deck is **not uploaded**. It contains group names and classroom-only quiz placeholders; the case study instead provides an original written synthesis and a newly authored text diagram. The underlying research paper is also not redistributed. No open-source license is granted.
 
